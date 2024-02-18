@@ -36,3 +36,6 @@ WPF (.NET framework 4.8) for front-end
 #### final page ####
 ![image](https://github.com/nipun-grover/word-search-game/assets/160381582/5bf9c788-7fa1-4e72-9f0b-ccfa1cc8e797)
 
+
+Note: This project was originally developed as part of an academic assignment, and as such, the original repository is not provided. However, the implementation of the project is as shown the readme file here. 
+

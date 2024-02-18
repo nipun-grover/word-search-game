@@ -1,6 +1,15 @@
-# README #
+# Word Search game #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+A WPF based word search game where user has to find as many words as they can from a long string within a specified amount of time.
+
+<h2>How it works?</h2>
+This is a game that utilizes TCP/IP connection to connect server and client. The server listents for any connection on a given port
+The client connects using the IP of the machine and the port of the server. The server grabs a random file from the game file and 
+parses the data. Using a custom protocol, it sends data to the client upon request. 
+
+
+
+
 
 ### What is this repository for? ###
 

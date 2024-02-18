@@ -37,12 +37,6 @@ WPF (.NET framework 4.8) for front-end
 ![image](https://github.com/nipun-grover/word-search-game/assets/160381582/5bf9c788-7fa1-4e72-9f0b-ccfa1cc8e797)
 
 
-
-
-* Writing tests
-* Code review
-* Other guidelines
-
 ### Who do I talk to? ###
 
 * Repo owner or admin
